@@ -1,5 +1,5 @@
 # Snake-Game-Python
-![Snake-Game-Python](screenshot.png)
+![Snake-Game-Python](Screenshot.png)
 
 A classic Snake game made with Python and Tkinter.
 
